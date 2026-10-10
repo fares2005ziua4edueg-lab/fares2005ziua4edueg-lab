@@ -50,7 +50,7 @@ class About extends Me {
 </div>
 
 <hr>
-رر
+
 ### Code cycle
 
 <div align="center">
