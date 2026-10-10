@@ -2,7 +2,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="./fares-ashraf.jpeg" width="300" alt="Fares Ashraf"/></td>
+    <td align="center"><img src="./WhatsApp%20Image%202026-10-10%20at%208.03.47%20PM.jpeg" width="300" alt="Fares Ashraf"/></td>
     <td align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="300" alt="Developer working"/></td>
   </tr>
 </table>
