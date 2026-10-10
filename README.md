@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/><br>
+
 <table align="center">
   <tr>
     <td align="center"><img src="./WhatsApp%20Image%202026-10-10%20at%208.03.47%20PM.jpeg" width="300" alt="Fares Ashraf"/></td>
